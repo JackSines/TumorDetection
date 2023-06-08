@@ -1,0 +1,4 @@
+import modelFunctions
+
+modelFunctions.train()
+
