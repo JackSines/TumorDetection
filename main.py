@@ -1,4 +1,8 @@
+import torch
 import modelFunctions
 
-modelFunctions.train()
+print(torch.cuda.is_available())
+
+# modelFunctions.train()
+# modelFunctions.trainingGraphs()
 
