@@ -3,6 +3,6 @@ import modelFunctions
 
 print(torch.cuda.is_available())
 
-# modelFunctions.train()
-# modelFunctions.trainingGraphs()
+modelFunctions.train()
+modelFunctions.trainingGraphs()
 
